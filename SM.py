@@ -1,4 +1,4 @@
-#-----------------[ IMPORT-MODULE ]-------------------
+-----------------[ IMPORT-MODULE ]-------------------
 import requests,bs4,json,os,sys,random,datetime,time,re,platform,subprocess
 import urllib3,rich,base64
 from rich.table import Table as me
@@ -224,7 +224,7 @@ def bot():
 def menu():
 	os.system('clear')
 	banner()
-	os.system("xdg-open https://www.facebook.com/owner.termux")        
+	os.system("xdg-open https://https://www.facebook.com/Md.Almutasimsaju.Simple.man143")        
 	print(f'\033[1;37m()==============================================()    ')
 	print('\t\x1b[1;97m[\x1b[1;92m M A I N - M E N U  \x1b[1;97m]')
 	print(f'\033[1;37m()==============================================()    ')
